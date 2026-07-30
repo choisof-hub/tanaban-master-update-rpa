@@ -9,6 +9,7 @@
 - `tanaban_rpa_sample.py`: RPAツールのコアソースコード（オープンソース用に一部モック化・リファクタリング済みサンプル）
 - `input_sample.xlsx`: 入力データおよび処理ログ記録用のサンプルExcelファイル
 - `development_flowchart.md`: 本ツールの開発プロセスを示すフローチャート
+- `development_history.md`: 技術検証や設計改善の過程をまとめたドキュメント
 - `changelog.md`: 開発履歴（Ver1〜Ver16までの軌跡）
 - `ai_utilization.md`: AIを活用したアジャイル開発（Vibe Coding）の取り組みについての解説
 - `README.md`: 本説明ドキュメント
